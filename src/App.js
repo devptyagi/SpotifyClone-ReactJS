@@ -40,7 +40,7 @@ function App() {
         })
       })
 
-      spotify.getPlaylist('37i9dQZEVXcFbUNKZTx6aE').then(response => {
+      spotify.getPlaylist('37i9dQZF1DWZNJXX2UeBij').then(response => {
         dispatch({
           type: 'SET_TOP_PLAYLIST',
           top_playlist: response
