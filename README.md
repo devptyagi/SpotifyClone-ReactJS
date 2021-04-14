@@ -6,4 +6,9 @@ Check Out: https://spotify-devtyagi.netlify.app/
 
 <img src="preview.gif">
 
-Just a front end clone of the spotify web app, yet another practice project.
+Just a front end clone of the spotify web app, yet another practice project.  
+
+* React Hooks
+* React Context APIs
+* Spotify Web API
+* Material UI
