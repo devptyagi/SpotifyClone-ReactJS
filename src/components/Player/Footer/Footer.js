@@ -77,7 +77,7 @@ const Footer = ({spotify}) => {
     return (
       <div className="footer">
         <div className="footer__left">
-          <img className="footer__albumLogo" src={item?.album.images[0].url ? item.album.images[0].url : `https://lh3.googleusercontent.com/proxy/AlWDp5x9qxba6NKAyn07isNl9WKWjxFQuCbM3BFGGNZwv4I0V2NetsDAP-V4yyv9hWdvv9qhACVfdBQpflXYrPR2OxXvbhLoguwZ_lz6Ow8dMk3v35rfGYwYmqhPzABOP1KraAzyjyyuw9idzsQnU-fcjAnpW9BoiJzt8BszCrkYL74sQz0IBZXSNZIA7vdRJsQ`} alt={item?.name}/>
+          <img className="footer__albumLogo" src={item?.album.images[0].url ? item.album.images[0].url : `https://pbs.twimg.com/profile_images/558556141605511168/2JDJX8SQ.png`} alt={item?.name}/>
           {
           item ? (
           <div className="footer__songInfo">
