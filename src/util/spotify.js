@@ -3,7 +3,7 @@
 //const redirectUri = "http://localhost:3000/";
 const redirectUri = "https://spotifyapp-clone.netlify.app";
 
-const clientId = "3463ef756bc84d43a256c87fdbeb1af2";
+const clientId = "7df6dc2199324def8531aaa09be084aa";
 
 const scopes = [
   "user-read-currently-playing",
